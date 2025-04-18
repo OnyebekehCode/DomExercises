@@ -44,3 +44,9 @@ contentd.appendChild(content2);
 
 container3.appendChild(contentd);
 
+
+const btn = document.querySelector("#btn");
+btn.addEventListener("click", () => {
+  alert("fuck me all the time wasted");
+});
+
