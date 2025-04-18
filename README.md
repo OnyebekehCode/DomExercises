@@ -1,2 +1,2 @@
 # DomExercises
-odinproject Dom exercises and MDN learning active learning test
+odinproject Dom exercises and MDN  active learning test
